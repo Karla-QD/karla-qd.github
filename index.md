@@ -2,4 +2,4 @@
 
 ## Por: Karla Verónica Quirós Delgado
 
-> Frase de prueba.
+> Aficionada a la informática, amante de los pandas <3
