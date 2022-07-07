@@ -1,4 +1,4 @@
-# Autor: Karla Quirós Delgado @Karla-QD
+# Autor: Karla Quirós Delgado 
 
 ## Estudiante de Infórmatica de segundo año.
 
