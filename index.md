@@ -6,5 +6,7 @@
 
 # Apuntes de estructuras discretas
 
-[estructurasDiscretas/apuntes de clase](estructurasDiscretas/archivosVisibles/apuntes1.md)
+[Estructuras_Discretas](estructurasDiscretas/Portada.md)
+
+
 

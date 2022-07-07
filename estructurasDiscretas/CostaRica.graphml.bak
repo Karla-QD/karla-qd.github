@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph id="toColorGraph" edgedefault="undirected">
+  
+    <node id="San Jose"/>
+    <node id="Alajuela"/> 
+    <node id="Puntarenas"/>
+    <node id="Heredia"/>
+    <node id="Limon"/>
+    <node id="Cartago"/>
+	<node id="Guanacaste"/>
+	
+    <edge id="e0" source="G" target="A"/>
+	<edge id="e1" source="G" target="P"/>
+	<edge id="e3" source="A" target="H"/>
+	<edge id="e4" source="A" target="SJ"/>
+    <edge id="e5" source="A" target="P"/>
+    <edge id="e6" source="P" target="SJ"/>
+    <edge id="e7" source="P" target="L"/>
+    <edge id="e8" source="H" target="SJ"/>
+    <edge id="e9" source="H" target="L"/>
+    <edge id="e10" source="SJ" target="C"/>
+    <edge id="e11" source="SJ" target="L"/>
+	<edge id="e12" source="L" target="C"/>
+
+  </graph>
+</graphml> 
